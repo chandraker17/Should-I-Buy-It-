@@ -4,9 +4,9 @@ A small web app that helps you decide whether to buy a product, based on what ot
 
 Built with Python, Flask, SQLite and VADER, using public Amazon and Flipkart review datasets. It runs locally.
 
-![Home page](screenshots/home.png)
-![Search results](screenshots/results.png)
-![Product page](screenshots/product.png)
+![Home page](home.png)
+![Search results](results.png)
+![Product page](product.png)
 
 ## What it does
 
